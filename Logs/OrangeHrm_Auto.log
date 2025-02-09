@@ -1,0 +1,1005 @@
+ 2025-02-06 15:35:29,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 15:35:29,716 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 15:35:33,890 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 15:36:28,999 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 15:36:28,999 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 15:36:32,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 15:36:33,203 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 15:36:33,275 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 15:36:34,502 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 15:36:35,911 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 15:36:37,128 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 15:37:45,498 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 15:37:45,498 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 15:37:49,215 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 15:37:49,702 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 15:37:49,774 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 15:37:49,832 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 15:37:53,084 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 15:37:54,520 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 15:37:55,009 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 15:37:55,064 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 15:37:55,149 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 15:38:10,270 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 15:38:15,401 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 15:38:19,514 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 15:38:29,712 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 15:38:29,712 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-06 15:46:02,753 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 15:46:02,753 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 15:46:08,322 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 15:46:08,956 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 15:46:09,091 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 15:46:09,247 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 15:46:12,680 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 15:46:13,758 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 15:46:14,319 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 15:46:14,392 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 15:46:14,515 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 15:53:32,544 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 15:53:32,545 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 15:53:40,104 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 15:53:42,704 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 15:53:42,939 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 15:53:50,404 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 15:53:57,074 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 15:54:01,781 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 15:54:03,798 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 15:54:03,942 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 15:54:04,069 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:01:45,235 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:01:45,235 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:01:50,231 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:01:51,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:01:51,859 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:01:53,851 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:01:56,156 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:01:57,463 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:01:58,068 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:01:58,179 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:01:58,318 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:03:21,338 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:03:21,339 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:03:26,321 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:03:27,526 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:03:27,649 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:03:29,410 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:03:31,183 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:03:32,668 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:03:33,504 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:03:33,657 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:03:33,847 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:05:28,196 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:05:28,196 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:05:33,717 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:05:34,370 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:05:34,503 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:05:34,616 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:05:37,876 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:05:39,034 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:05:39,607 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:05:39,736 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:05:39,889 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:08:09,896 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:08:09,897 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:08:15,910 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:08:16,828 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:08:16,984 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:08:17,110 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:08:22,622 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:08:23,990 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:08:24,689 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:08:24,820 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:08:24,937 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:09:50,476 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:09:50,476 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:10:02,156 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:10:04,202 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:10:04,364 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:10:04,485 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:10:07,852 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:10:09,029 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:10:09,553 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:10:09,674 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:10:09,813 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:13:13,668 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:13:13,668 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:13:26,361 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:13:30,092 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:13:30,298 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:13:30,469 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:13:33,628 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:13:34,815 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:13:35,365 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:13:35,505 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:13:35,657 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:14:39,357 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:14:39,357 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:14:43,139 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:14:43,736 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:14:43,863 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:14:45,553 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:14:47,788 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:14:49,369 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:14:50,129 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:14:50,263 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:14:50,417 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:14:50,584 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 16:15:13,198 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:15:13,198 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:15:17,855 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:15:20,097 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:15:20,247 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:15:20,369 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:15:23,652 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:15:24,857 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:15:25,418 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:15:25,514 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:15:25,644 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:20:12,326 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:20:12,326 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:20:17,157 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:20:18,282 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:20:18,465 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:20:18,571 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:20:21,502 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:20:22,787 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:20:23,326 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:20:23,462 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:20:23,606 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:23:31,081 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:23:31,082 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:23:35,885 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:23:37,122 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:23:37,249 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:23:38,669 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:23:40,467 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:23:41,665 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:23:42,207 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:23:42,332 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:23:42,496 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:24:13,435 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:24:13,436 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:24:14,663 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:24:24,161 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:24:24,331 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:24:25,915 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:24:27,686 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:24:28,880 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:24:29,604 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:24:29,734 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:24:29,878 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:25:17,852 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:25:17,852 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:25:23,290 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:25:23,976 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:25:24,152 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:25:24,268 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:25:27,346 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:25:28,507 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:25:29,125 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:25:29,272 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:25:29,460 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:35:06,597 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:35:06,598 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:35:13,385 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:35:14,004 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:35:14,189 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:35:14,364 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:35:17,518 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:35:19,249 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:35:19,950 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:35:20,116 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:35:20,293 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:35:42,977 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:35:42,978 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:35:48,011 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:35:48,677 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:35:48,792 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:35:48,913 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:35:52,028 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:35:53,309 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:35:53,887 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:35:54,040 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:35:54,176 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:35:54,343 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 16:35:59,616 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 16:36:03,796 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 16:36:14,050 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 16:36:14,051 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-06 16:39:05,473 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:39:05,474 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:39:20,096 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:39:23,536 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:39:23,719 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:39:25,348 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:39:27,274 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:39:28,711 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:39:29,334 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:39:29,445 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:39:29,621 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:39:42,224 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:39:42,225 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:39:49,492 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:39:53,801 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:39:54,004 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:39:55,817 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:39:57,560 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:39:58,811 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:39:59,384 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:39:59,495 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:39:59,604 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:39:59,727 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 16:40:04,956 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 16:40:09,202 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 16:40:19,469 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 16:40:19,469 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-06 16:40:36,118 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:40:36,119 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:40:41,620 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:40:42,248 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:40:42,404 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:40:42,526 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:40:45,467 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:40:46,722 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:40:47,234 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:40:47,385 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:40:47,531 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:40:47,693 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 16:40:52,908 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 16:40:57,125 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 16:41:07,317 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 16:41:07,317 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-06 16:41:56,221 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:41:56,222 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:42:01,360 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:42:02,003 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:42:02,160 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:42:02,286 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:42:06,064 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:42:07,640 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:42:08,207 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:42:08,366 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:42:08,521 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:48:25,825 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:48:25,910 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:48:32,618 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:48:33,293 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:48:33,450 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:48:33,611 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:48:37,237 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:48:38,868 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:48:39,789 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:48:39,932 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:48:40,079 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:56:58,960 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:56:58,960 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:57:04,704 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:57:05,430 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:57:05,540 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:57:06,995 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:57:08,797 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:57:10,222 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:57:10,755 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:57:10,849 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:57:11,029 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 16:58:43,203 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 16:58:43,276 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 16:58:48,260 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 16:58:48,960 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 16:58:49,131 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 16:58:50,544 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 16:58:52,470 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 16:58:53,968 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 16:58:54,578 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 16:58:54,642 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 16:58:54,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 17:01:35,489 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 17:01:35,489 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 17:01:39,645 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 17:01:40,741 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 17:01:40,852 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 17:01:42,363 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 17:01:44,070 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 17:01:45,667 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 17:01:46,288 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 17:01:46,364 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 17:01:46,469 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 17:01:46,620 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 17:01:51,894 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 17:01:56,089 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 17:02:06,322 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 17:02:06,323 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-06 17:04:39,410 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 17:04:39,411 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 17:04:45,853 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 17:04:47,012 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 17:04:47,264 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 17:04:47,479 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 17:04:50,877 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 17:04:52,749 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 17:04:53,443 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 17:04:53,616 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 17:04:53,746 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 17:04:53,989 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 17:04:59,190 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 17:05:03,344 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 17:05:13,585 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 17:05:13,585 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-06 17:06:48,152 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 17:06:48,152 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 17:06:53,086 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 17:06:53,914 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 17:06:54,032 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 17:06:54,139 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 17:06:57,377 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 17:06:58,820 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 17:06:59,692 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 17:06:59,835 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 17:06:59,993 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 17:07:32,546 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 17:07:32,546 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 17:07:38,509 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 17:07:39,442 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 17:07:39,580 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 17:07:39,739 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 17:07:42,503 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 17:07:43,794 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 17:07:44,469 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 17:07:44,612 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 17:07:44,754 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 17:07:56,551 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-06 17:07:56,551 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-06 17:08:10,063 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-06 17:08:11,867 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-06 17:08:11,994 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-06 17:08:13,928 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-06 17:08:15,699 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-06 17:08:16,979 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-06 17:08:17,501 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-06 17:08:17,619 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-06 17:08:17,713 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-06 17:08:18,043 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-06 17:08:23,242 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 43 : Enter Email --> smith1233@gmail.com 
+ 2025-02-06 17:08:27,390 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 46 : Click Save Button 
+ 2025-02-06 17:08:37,619 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-06 17:08:37,620 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
+ 2025-02-07 14:43:01,685 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:43:01,830 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:43:08,475 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:43:09,558 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:43:09,731 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:43:11,167 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:43:13,197 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:43:14,414 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:43:15,163 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:43:15,342 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:43:15,481 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:44:08,274 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:44:08,274 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:44:13,398 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:44:14,262 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:44:14,370 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:44:15,842 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:44:17,715 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:44:18,955 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:44:19,568 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:44:19,701 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:44:19,836 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:45:23,631 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:45:23,631 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:45:28,413 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:45:29,008 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:45:29,168 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:45:29,308 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:45:32,605 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:45:33,980 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:45:34,549 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:45:34,693 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:45:34,867 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:47:40,005 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:47:40,005 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:47:41,612 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:47:47,918 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:47:48,143 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:47:48,308 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:47:51,784 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:47:53,182 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:47:53,817 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:47:53,955 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:47:54,098 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:48:32,957 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:48:32,957 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:48:50,264 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:48:54,876 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:48:55,052 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:48:55,184 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:49:02,372 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:49:04,000 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:49:04,599 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:49:04,742 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:49:04,897 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:52:26,846 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:52:26,846 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:52:32,404 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:52:33,568 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:52:33,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:52:33,870 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:52:37,475 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:52:38,747 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:52:39,330 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:52:39,458 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:52:39,608 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:53:21,705 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:53:21,705 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:53:26,312 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:53:28,467 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:53:28,660 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:53:30,020 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:53:31,731 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:53:32,885 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:53:33,461 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:53:33,574 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:53:33,708 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:55:07,738 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:55:07,738 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:55:12,458 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:55:13,052 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:55:13,203 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:55:13,307 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:55:16,377 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:55:17,718 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:55:18,296 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:55:18,427 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:55:18,595 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:55:41,788 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:55:41,788 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:55:43,300 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:56:01,240 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:56:01,407 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:56:03,050 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:56:04,866 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:56:06,113 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:56:06,670 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:56:06,771 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:56:06,907 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:57:00,344 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:57:00,344 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:57:15,696 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:57:18,729 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:57:18,881 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:57:20,853 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:57:22,749 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:57:23,999 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:57:24,584 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:57:24,681 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:57:24,826 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:57:25,202 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 14:57:25,401 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 14:57:29,615 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 14:57:39,825 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 14:57:39,825 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 14:58:44,907 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:58:44,907 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:58:52,530 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:58:54,719 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:58:54,908 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:58:56,829 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:58:58,689 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:58:59,975 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:59:00,551 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:59:00,688 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:59:00,817 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:59:01,005 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 14:59:01,190 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 14:59:05,370 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 14:59:15,668 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 14:59:15,668 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 14:59:32,802 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 14:59:32,803 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 14:59:40,039 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 14:59:43,795 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 14:59:43,972 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 14:59:44,115 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 14:59:47,213 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 14:59:48,385 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 14:59:49,018 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 14:59:49,148 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 14:59:49,293 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 14:59:49,551 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 14:59:49,822 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 14:59:54,028 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:00:04,229 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:00:04,230 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:00:57,662 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:00:57,663 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:01:06,958 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:01:09,764 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:01:09,914 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:01:10,044 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:01:13,544 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:01:14,711 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:01:15,315 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:01:15,444 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:01:15,551 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:01:15,796 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:01:16,040 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:01:20,229 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:01:30,445 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:01:30,445 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:06:11,380 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:06:11,380 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:06:16,301 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:06:16,958 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:06:17,117 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:06:17,250 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:06:20,392 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:06:21,604 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:06:22,129 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:06:22,243 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:06:22,409 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:06:32,669 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:06:32,843 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:06:37,038 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:06:47,234 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:06:47,234 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:07:31,692 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:07:31,692 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:07:36,857 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:07:37,532 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:07:37,679 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:07:37,831 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:07:41,107 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:07:42,729 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:07:43,449 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:07:43,550 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:07:43,705 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:08:04,439 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:08:04,439 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:08:08,981 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:08:11,125 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:08:11,320 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:08:11,441 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:08:14,641 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:08:15,825 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:08:16,349 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:08:16,454 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:08:16,558 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:12:31,088 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:12:31,089 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:12:36,416 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:12:37,014 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:12:37,191 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:12:37,322 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:12:40,348 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:12:41,723 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:12:42,373 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:12:42,518 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:12:42,666 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:13:25,831 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:13:25,832 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:13:31,595 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:13:32,881 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:13:33,028 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:13:33,209 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:13:36,369 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:13:37,593 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:13:38,139 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:13:38,246 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:13:38,385 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:14:11,183 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:14:11,184 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:14:18,160 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:14:19,013 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:14:19,190 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:14:20,897 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:14:22,825 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:14:24,054 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:14:24,692 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:14:24,809 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:14:24,942 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:15:12,135 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:15:12,673 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:15:17,077 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:15:17,720 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:15:17,851 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:15:17,946 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:15:21,134 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:15:22,468 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:15:23,087 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:15:23,197 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:15:23,336 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:20:27,486 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:20:27,487 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:20:32,236 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:20:33,220 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:20:33,347 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:20:33,462 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:20:36,864 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:20:38,590 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:20:39,245 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:20:39,351 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:20:39,478 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:20:51,343 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:20:51,343 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:20:56,005 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:20:56,687 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:20:56,818 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:20:56,917 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:21:00,320 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:21:01,579 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:21:02,106 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:21:02,237 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:21:02,390 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:21:02,656 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:21:02,867 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:21:07,058 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:21:17,283 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:21:17,283 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:21:41,159 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:21:41,159 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:21:45,690 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:21:47,826 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:21:48,007 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:21:48,143 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:21:51,184 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:21:52,417 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:21:53,054 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:21:53,194 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:21:53,324 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:21:53,584 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:21:53,829 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:21:58,035 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:22:08,274 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:22:08,274 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:23:24,960 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:23:24,960 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:23:33,183 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:23:35,227 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:23:35,490 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:23:37,154 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:23:38,928 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:23:40,167 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:23:40,778 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:23:40,922 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:23:41,079 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:23:41,314 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:23:41,566 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:23:45,824 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:23:56,088 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:23:56,088 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:24:15,980 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:24:15,980 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:24:20,504 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:24:21,108 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:24:21,251 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:24:21,352 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:24:24,456 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:24:25,716 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:24:26,189 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:24:26,327 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:24:26,728 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:25:10,723 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:25:10,723 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:25:19,444 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:25:20,875 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:25:21,061 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:25:21,184 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:25:24,874 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:25:25,930 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:25:26,526 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:25:26,648 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:25:26,745 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:26:10,015 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:26:10,015 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:26:18,325 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:26:20,589 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:26:20,749 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:26:22,517 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:26:24,272 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:26:25,533 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:26:26,141 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:26:26,281 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:26:26,440 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:26:48,798 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:26:48,798 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:27:09,910 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:27:15,986 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:27:16,128 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:27:16,292 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:27:19,474 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:27:20,717 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:27:21,218 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:27:21,359 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:27:21,505 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:27:47,605 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:27:47,605 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:27:52,853 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:27:53,689 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:27:53,795 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:27:55,308 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:27:56,971 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:27:58,640 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:27:59,204 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:27:59,344 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:27:59,469 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:31:31,520 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:31:31,520 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:31:36,606 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:31:37,391 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:31:37,539 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:31:37,654 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:31:40,447 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:31:41,674 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:31:42,232 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:31:42,383 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:31:42,534 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:31:42,790 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:31:43,004 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:31:47,195 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:31:57,457 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:31:57,457 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:32:45,457 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:32:45,457 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:32:59,790 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:33:04,514 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:33:04,712 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:33:06,223 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:33:07,931 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:33:09,194 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:33:09,849 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:33:09,994 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:33:10,159 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:33:10,426 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:33:10,625 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:33:14,840 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:33:25,110 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:33:25,111 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:33:58,064 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:33:58,064 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:34:02,809 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:34:03,421 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:34:03,532 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:34:04,956 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:34:06,839 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:34:08,204 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:34:08,836 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:34:08,988 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:34:09,109 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:39:21,634 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:39:21,634 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:39:48,194 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:39:52,871 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:39:53,054 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:39:54,584 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:39:56,233 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:39:57,817 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:39:58,474 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:39:58,619 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:39:58,786 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:39:59,046 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:39:59,287 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:40:03,490 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:40:13,748 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:40:13,749 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:48:47,793 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:48:47,794 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:48:55,389 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:48:56,882 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:48:57,058 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:48:57,172 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:49:00,160 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:49:01,462 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:49:02,075 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:49:02,188 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:49:02,322 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:49:02,377 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:49:02,584 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:49:06,682 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:49:16,882 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:49:16,882 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 15:50:13,074 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 15:50:13,075 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 15:50:16,770 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 15:50:17,305 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 15:50:17,377 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 15:50:18,588 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 15:50:20,016 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 15:50:21,358 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 15:50:21,820 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 15:50:21,873 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 15:50:21,932 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 15:50:21,953 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 15:50:22,067 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 15:50:26,164 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 15:50:36,322 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 15:50:36,322 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 16:02:39,203 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:02:39,203 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:02:43,811 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:02:44,330 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:02:44,402 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:02:44,462 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:02:47,302 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:02:48,614 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:02:49,098 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:02:49,149 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:02:49,237 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:05:07,770 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:05:07,770 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:05:11,130 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:05:11,625 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:05:11,700 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:05:13,085 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:05:14,526 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:05:15,681 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:05:16,122 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:05:16,174 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:05:16,248 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:05:57,894 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:05:57,894 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:06:01,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:06:02,290 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:06:02,364 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:06:02,421 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:06:05,624 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:06:06,605 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:06:07,059 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:06:07,110 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:06:07,159 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:06:07,179 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 16:06:07,286 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 16:06:11,396 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 16:06:21,543 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 16:06:21,543 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 16:14:57,699 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:14:57,709 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:15:02,696 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:15:03,183 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:15:03,289 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:15:04,772 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:15:06,581 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:15:07,669 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:15:08,250 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:15:08,310 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:15:08,403 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:15:08,449 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 16:15:08,644 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 16:15:12,708 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 16:15:22,899 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 16:15:22,899 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 16:51:10,666 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:51:10,679 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:51:15,405 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:51:15,879 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:51:15,957 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:51:17,386 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:51:18,684 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:51:19,799 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:51:20,358 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:51:20,414 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:51:20,514 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:51:20,675 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 16:51:20,793 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 16:51:24,904 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 16:51:35,100 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 16:51:35,100 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 16:51:52,059 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:51:52,059 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:51:55,417 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:51:55,866 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:51:55,956 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:51:57,219 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:51:58,742 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:51:59,809 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:52:00,320 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:52:00,374 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:52:00,429 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:52:00,516 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 16:52:00,634 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 16:52:04,703 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 16:52:14,923 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 16:52:14,923 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 16:55:29,647 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:55:29,648 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:55:33,572 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:55:34,059 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:55:34,134 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:55:35,326 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:55:36,802 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:55:38,484 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:55:39,274 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:55:39,335 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:55:39,420 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:55:57,040 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 16:55:57,040 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 16:56:00,767 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 16:56:01,252 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 16:56:01,327 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 16:56:02,539 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 16:56:03,925 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 16:56:04,976 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 16:56:05,843 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 16:56:05,896 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 16:56:05,953 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 16:56:07,154 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 16:56:07,277 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 16:56:11,375 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 16:56:15,758 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 49 : Save Screenshot 
+ 2025-02-07 16:56:15,841 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 51 : Click on Menu buttom 
+ 2025-02-07 16:56:17,266 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 53 : Click on Logout 
+ 2025-02-07 16:56:17,266 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 55 : test_addRecruitment_009 is Passed 
+ 2025-02-07 16:56:17,362 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 65 : test_addRecruitment_009 is Completed 
+ 2025-02-07 17:01:21,478 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 17:01:21,490 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 17:01:25,787 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 17:01:26,284 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 17:01:26,359 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 17:01:27,539 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 17:01:29,109 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 17:01:30,230 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 17:01:31,013 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 17:01:31,068 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 17:01:31,139 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 17:01:32,599 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 17:01:32,714 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 17:01:36,826 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 17:01:47,059 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 61 : Save Screenshot 
+ 2025-02-07 17:01:47,059 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : test_addRecruitment_009 is Failed 
+ 2025-02-07 17:02:36,837 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 17:02:36,838 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 17:02:40,797 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 17:02:41,319 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 17:02:41,400 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 17:02:41,455 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 17:02:44,118 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 17:02:45,232 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 17:02:46,106 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 17:02:46,163 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 17:02:46,226 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 17:02:47,381 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 17:02:47,476 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 17:02:51,607 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 17:02:56,467 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 49 : Save Screenshot 
+ 2025-02-07 17:02:56,554 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 51 : Click on Menu buttom 
+ 2025-02-07 17:02:58,129 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 53 : Click on Logout 
+ 2025-02-07 17:02:58,129 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 55 : test_addRecruitment_009 is Passed 
+ 2025-02-07 17:02:58,239 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 65 : test_addRecruitment_009 is Completed 
+ 2025-02-07 17:03:59,416 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 17:03:59,416 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 17:04:03,220 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 17:04:03,707 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 17:04:03,781 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 17:04:03,841 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 17:04:06,652 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 17:04:07,817 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 17:04:08,654 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 17:04:08,711 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 17:04:08,781 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 17:04:09,965 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 17:04:10,066 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 17:04:14,148 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 17:04:23,435 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 50 : Save Screenshot 
+ 2025-02-07 17:04:23,493 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 52 : Click on Menu buttom 
+ 2025-02-07 17:04:24,330 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 54 : Click on Logout 
+ 2025-02-07 17:04:24,331 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 56 : test_addRecruitment_009 is Passed 
+ 2025-02-07 17:04:24,457 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 66 : test_addRecruitment_009 is Completed 
+ 2025-02-07 20:32:29,024 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 20:32:29,108 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 20:33:44,964 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 20:34:05,991 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 17 : test_addRecruitment_009 is started 
+ 2025-02-07 20:34:05,991 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 18 : Browser is openning 
+ 2025-02-07 20:34:13,662 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 20 : Going to url -->https://opensource-demo.orangehrmlive.com/ 
+ 2025-02-07 20:34:16,371 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 23 : Enter Username-->Admin 
+ 2025-02-07 20:34:16,548 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 25 : Enter Password -->admin123 
+ 2025-02-07 20:34:16,707 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 27 : Click on login Button 
+ 2025-02-07 20:34:19,742 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 30 : CLick on Recruitment Button 
+ 2025-02-07 20:34:21,178 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 32 : Cick on Add Button 
+ 2025-02-07 20:34:21,679 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 34 : Enter FirstName --> Smith 
+ 2025-02-07 20:34:21,791 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 36 : Enter Middlename --> R 
+ 2025-02-07 20:34:21,886 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 38 : Enter Lastname --> L 
+ 2025-02-07 20:34:22,000 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 40 : Select option in job vaccancies --> Software Engineer 
+ 2025-02-07 20:34:22,211 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 42 : Enter Email --> smith1233@gmail.com 
+ 2025-02-07 20:34:26,370 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 45 : Click Save Button 
+ 2025-02-07 20:34:36,694 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 62 : Save Screenshot 
+ 2025-02-07 20:34:36,694 : INFO : Test_Add_Recruitment : test_addRecruitment_009 : 63 : test_addRecruitment_009 is Failed 
