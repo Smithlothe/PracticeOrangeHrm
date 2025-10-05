@@ -1,6 +1,9 @@
 from selenium.webdriver.common.by import By
 from selenium.common import NoSuchElementException as Ec
 
+from pageObject.ass import driver
+
+
 class AddEmployee:
     Click_PIM_XPATH = (By.XPATH,"//span[normalize-space()='PIM']")
     Click_AddEmployee_XPATH = (By.XPATH,"//a[normalize-space()='Add Employee']")

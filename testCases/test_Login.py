@@ -11,7 +11,7 @@ class Test_Login:
     password = Readconfig.getpassword()
     log = LogGenerator.loggen()
 
-    @pytest.mark.sanity
+
     def test_Page_Title_001(self,setup):
         self.driver = setup
         self.log.info("test_Page_Title_001 is started")

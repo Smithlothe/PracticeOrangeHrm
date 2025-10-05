@@ -27,21 +27,21 @@ def setup(browser):
     driver.maximize_window()
     return driver
 
-def pytest_metadata(metadata):
-    metadata["Environment"] = "Test"
-    metadata["Project Name"] = "OrangeHRM"
-    metadata["Module Name"] = "Employee"
-    metadata["Tester"] = "Credence"
-
-    metadata.pop("Packages",None)
-    metadata.pop("Plugins",None)
-
-@pytest.fixture(params=[
-    ("Admin","admin123","Pass"),
-    ("Admin1","admin123","Fail"),
-    ("Admin","admin1231","Fail"),
-    ("Admin1","admin1231","Fail")
-])
-def getDataforlogin(request):
-    return request.param
+# def pytest_metadata(metadata):
+#     metadata["Environment"] = "Test"
+#     metadata["Project Name"] = "OrangeHRM"
+#     metadata["Module Name"] = "Employee"
+#     metadata["Tester"] = "Credence"
+#
+#     metadata.pop("Packages",None)
+#     metadata.pop("Plugins",None)
+#
+# @pytest.fixture(params=[
+#     ("Admin","admin123","Pass"),
+#     ("Admin1","admin123","Fail"),
+#     ("Admin","admin1231","Fail"),
+#     ("Admin1","admin1231","Fail")
+# ])
+# def getDataforlogin(request):
+#     return request.param
 

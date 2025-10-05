@@ -4,7 +4,7 @@ config = configparser.RawConfigParser()
 
 config.read("D:\\Credence\\Automation Testing Selenium Python Tushar Sir\\Practice OrangeHrm\\Configuration\\config.ini")
 
-class Readconfig():
+class Readconfig:
 
     @staticmethod
     def geturl():
